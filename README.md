@@ -573,14 +573,13 @@ Melalui pendekatan yang telah dilakukan, seluruh solution statements yang telah 
 ---
 
 Dengan tercapainya solusi tersebut, maka seluruh goals yang ditetapkan di awal proyek juga telah terpenuhi secara menyeluruh:
-
-1. Tujuan 1: Mempermudah Pengguna dalam Menemukan Buku yang Relevan - Tercapai.
+* Tujuan 1: Mempermudah Pengguna dalam Menemukan Buku yang Relevan - Tercapai.
 
   Model Content-Based memungkinkan pengguna menemukan judul-judul serupa secara instan hanya dengan satu input buku yang disukai. Sementara itu, model Rating-Based menyediakan daftar "pilihan terbaik" yang sudah terkurasi, secara efektif memangkas waktu pencarian.
-2. Tujuan 2: Meningkatkan Personalisasi dan Kepuasan Membaca - Tercapai.
+* Tujuan 2: Meningkatkan Personalisasi dan Kepuasan Membaca - Tercapai.
 
   Dengan merekomendasikan buku berdasarkan kemiripan konten yang mendalam, model Content-Based secara langsung menawarkan personalisasi yang dapat meningkatkan kepuasan pembaca karena rekomendasi yang diberikan sangat relevan dengan selera unik mereka.
-3. Tujuan 3: Mengoptimalkan Investasi Waktu Pembaca dan Mendorong Minat Baca - Tercapai.
+* Tujuan 3: Mengoptimalkan Investasi Waktu Pembaca dan Mendorong Minat Baca - Tercapai.
 
   Sistem ini membantu pengguna menghindari pemborosan waktu pada buku yang mungkin tidak cocok (melalui model Rating-Based) dan secara aktif menyajikan konten yang kemungkinan besar akan dinikmati (melalui model Content-Based). Kedua hal ini secara kolektif mendorong minat baca yang berkelanjutan.
 
