@@ -1,18 +1,3 @@
----
-jupyter:
-  colab:
-    collapsed_sections:
-    - NvBEgtXi7JwF
-  kernelspec:
-    display_name: Python 3
-    name: python3
-  language_info:
-    name: python
-  nbformat: 4
-  nbformat_minor: 0
----
-
-::: {.cell .markdown id="73-A_cJX9ygm"}
 # Domain Proyek
 
 ## Book Recomenndation System
