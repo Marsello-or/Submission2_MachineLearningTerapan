@@ -1,5 +1,5 @@
 # Domain Proyek
-Book Recomenndation System
+Book Recomendation System
 ---
 
 Pada proyek ini, saya berfokus pada pengembangan model sistem rekomendasi buku. Di era digital saat ini, jumlah buku yang tersedia bagi pembaca sangatlah masif, baik dalam format fisik maupun digital. Masalah dalam memilih buku yang tepat menjadi isu krusial bagi para pembaca, karena pemilihan yang tidak sesuai dengan selera dan minat dapat berdampak pada penurunan minat baca, serta pemborosan waktu dan biaya. Memahami dan merekomendasikan buku yang relevan menjadi sangat penting untuk membantu pembaca menemukan bacaan yang memuaskan dan memperkaya pengalaman literasi mereka. Dengan mengidentifikasi buku yang paling cocok sejak dini, pembaca dapat memaksimalkan waktu luang mereka dan menumbuhkan kecintaan yang lebih dalam terhadap dunia literasi.
